@@ -12,3 +12,11 @@
 7) You should be redirected to your browser and have a stock website loaded! 
 
 
+# Packages used 
+1) 'npm i react-bootstrap'
+2) 'npm i react-bootstrap-icons'
+3) 'npm i animate.css'
+4) 'npm i react-on-screen' 
+5) 'npm i react-multi-carousel' 
+6) 'npm i react-circular-progressbar'
+7) 'npm install bootstrap --save'
